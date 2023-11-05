@@ -1,0 +1,88 @@
+body{
+  background-image:url('background.jpg');
+  background-repeat: no-repeat;
+  margin: 300px;
+  color: white;
+}
+
+.conteiner{
+  width: 50%;
+  margin: auto;
+  font-family: Poppins;
+  background-color: rgba(0,0,0,0.5);
+  padding: 300px;
+  border-radius: 3%;
+}
+
+img{
+  display: block;
+  margin: auto;
+}
+
+h1{
+  font-size: 82px;
+  text-align: center;
+  margin-top: 6px;
+  margin-bottom: 0px;
+  color: #4edd4e;
+}
+
+nav{
+  text-align: center;
+  background-color: #00dd00;
+  padding: 40px;
+}
+
+button{
+    font-size: 50px;
+    padding: 15px;
+    cursor: pointer;
+}
+
+h2{
+  font-size: 75px;
+  margin-bottom: 8px;
+  cursor: pointer;
+}
+
+h5{
+  font-size: 45px;
+  margin: 8px;
+}
+
+div > hr {
+  margin-top: 8px;
+  height: 80px;
+  border: 2px;
+  border-radius: 8px;
+}
+
+#middle-charge {
+  font-size: 55px;
+  color: orange;
+}
+
+.chargeGino22{
+  background-color: #fdb93b;
+  margin-right: 55%;
+}
+
+#full-charge {
+  font-size: 55px;
+  color: green;
+}
+
+.chargeMike24{
+  background-color: #4edd4e;
+  margin-right: 25%;
+}
+
+#no-charge {
+  font-size: 55px;
+  color: red;
+}
+
+.chargeFede154{
+  background-color: #ed2c2c;
+  margin-right: 75%;
+}
